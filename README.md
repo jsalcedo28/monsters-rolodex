@@ -1,4 +1,4 @@
-🚀[View Demo](https://react-ntflx-jc.netlify.app/)
+🚀[View Demo](https://monsters-rolodex-react-jc.netlify.app/)
 
 # Getting Started with Create React App
 
